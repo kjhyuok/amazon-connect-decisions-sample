@@ -1,0 +1,4 @@
+id,description,company_id,site_type,is_active,geo_id
+SITE-DC-CENTRAL,Central Distribution Center,ACD-COMPANY,DC,True,US
+SITE-DC-WEST,West Coast Logistics Hub,ACD-COMPANY,DC,True,US
+SITE-STORE-MAIN,Main Street Retail Store,ACD-COMPANY,Store,True,US

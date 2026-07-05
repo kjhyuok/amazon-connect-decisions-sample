@@ -1,0 +1,6 @@
+id,description,company_id,product_group_id,is_deleted,base_uom
+PROD-001,Organic Face Moisturizer 50ml,ACD-COMPANY,Skincare,False,EA
+PROD-002,Premium Anti-Aging Serum 30ml,ACD-COMPANY,Skincare,False,EA
+PROD-003,Natural Color Lip Tint 4g,ACD-COMPANY,Makeup,False,EA
+PROD-004,Green Tea Cleansing Foam 150ml,ACD-COMPANY,Skincare,False,EA
+PROD-005,Matte Foundation Compact 12g,ACD-COMPANY,Makeup,False,EA

@@ -1,0 +1,4 @@
+id,tpartner_type,geo_id,eff_start_date,eff_end_date,description,company_id,is_active
+VENDOR-A,VENDOR,US,1900-01-01T00:00:00Z,9999-12-31T00:00:00Z,Alpha Manufacturing Inc.,ACD-COMPANY,True
+VENDOR-B,VENDOR,US,1900-01-01T00:00:00Z,9999-12-31T00:00:00Z,Beta Supply Partners,ACD-COMPANY,True
+VENDOR-C,VENDOR,US,1900-01-01T00:00:00Z,9999-12-31T00:00:00Z,Gamma Packaging Co.,ACD-COMPANY,True
